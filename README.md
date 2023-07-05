@@ -8,7 +8,7 @@
 <br>
 <br>
 - 🔭 I’m currently working on Fullstack development 
-- 🌱 I’m currently learning JS / CSS 
+- 🌱 I’m currently learning React
 - 💬 My email address:anilfaruk99@gmail.com
 <br>
 <hr>
